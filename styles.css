@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans' , 'Arial';
+  background-color: #737d8b;
+  margin-top: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 420px;
+  padding: 40px;
+  background-color: #e5e7eb;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.10);
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+
+label {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+input {
+  width: 100%;
+  margin-top: 10px;
+  padding: 12px 15px;
+  border: 1px solid #9ca3af;
+  border-radius: 8px;
+  outline: none;
+  color: #1f2937;
+  font-size: 16px;
+}
+
+.calculate-button {
+  width: 100%;
+  padding: 18px;
+  border: none;
+  border-radius: 8px;
+  background-color: #374151;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.calculate-button:hover {
+  background-color: #1f2937;
+}
+
+.bmi-result {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  color: #111827;
+}
+
+.bmi-category {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  color: #4b5563;
+}
+
+.underweight {
+  color: blue;
+  margin-bottom: 6px;
+}
+
+.normal {
+  color: green;
+  margin-bottom: 6px;
+}
+
+.overweight {
+  color: orange;
+  margin-bottom: 6px;
+}
+
+.obese {
+  color: red;
+  margin-bottom: 6px;
+}
