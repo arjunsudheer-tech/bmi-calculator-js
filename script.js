@@ -1,5 +1,3 @@
-
-
 const heightInput = document.querySelector('#height-input');
 const weightInput = document.querySelector('#weight-input');
 
@@ -54,7 +52,6 @@ function calculateBMI() {
     <p>🔥 Start where you are. One healthy choice at a time.</p>
     `;
   }
-
 
   heightInput.value = '';
   weightInput.value = '';
