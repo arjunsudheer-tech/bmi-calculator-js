@@ -7,10 +7,6 @@ A simple and responsive BMI Calculator built using **HTML5, CSS3 and JavaScript*
 ![BMI Calculator Preview](./preview-1.png)
 ![BMI Calculator Preview](./preview-2.png)
 
-## 🎥 Demo
-
-![BMI Calculator Demo](./bmi-demo.mov)
-
 ---
 
 ## 🚀 Live Demo
