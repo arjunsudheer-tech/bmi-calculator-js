@@ -42,20 +42,6 @@ A simple and responsive BMI Calculator built using **HTML5, CSS3 and JavaScript*
 
 ---
 
-## 📂 Project Structure
-
-```text
-bmi-calculator/
-│
-├── index.html
-├── styles.css
-├── script.js
-├── preview.png
-├── bmi-demo.gif
-└── README.md
-
----
-
 ## 🎯 What I Learned
 
 While building this project, I practiced:
