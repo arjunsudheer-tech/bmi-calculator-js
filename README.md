@@ -54,28 +54,32 @@ bmi-calculator/
 ├── bmi-demo.gif
 └── README.md
 
-🎯 What I Learned
+---
+
+## 🎯 What I Learned
 
 While building this project, I practiced:
 
-• Selecting HTML elements using querySelector()
-• Reading and converting input values using Number()
-• Handling button click events
-• Handling keyboard events using keydown
-• Detecting the Enter key
-• Creating and using JavaScript functions
-• Using if, else if and else statements
-• Validating user input
-• Performing mathematical calculations
-• Converting height from centimeters to meters
-• Formatting numbers using toFixed()
-• Updating webpage content using textContent
-• Updating HTML using innerHTML
-• Dynamically changing CSS classes
-• Resetting input values using .value
-• Practicing DOM manipulation
+* Selecting HTML elements using querySelector()
+* Reading and converting input values using Number()
+* Handling button click events
+* Handling keyboard events using keydown
+* Detecting the Enter key
+* Creating and using JavaScript functions
+* Using if, else if and else statements
+* Validating user input
+* Performing mathematical calculations
+* Converting height from centimeters to meters
+* Formatting numbers using toFixed()
+* Updating webpage content using textContent
+* Updating HTML using innerHTML
+* Dynamically changing CSS classes
+* Resetting input values using .value
+* Practicing DOM manipulation
 
-🧮 BMI Calculation
+---
+
+## 🧮 BMI Calculation
 
 The calculator uses the standard BMI formula:
 
@@ -99,20 +103,26 @@ Below 18.5	Underweight
 25 – 29.9	Overweight
 30 and above	Obese
 
-📈 Future Improvements
-• Add BMI calculation history using localStorage
-• Add a visual BMI scale
-• Add metric and imperial unit options
-• Add a reset button
-• Improve accessibility
-• Add animations and interactive elements
-• Improve the overall user experience
+---
 
-👨‍💻 Author
+## 📈 Future Improvements
 
-Arjun S
+* Add BMI calculation history using localStorage
+* Add a visual BMI scale
+* Add a reset button
+* Improve accessibility
+* Add animations and interactive elements
+* Improve the overall user experience
 
-GitHub: https://github.com/arjunsudheer-tech
-LinkedIn: https://www.linkedin.com/in/arjunsudheer-tech/
+---
+
+## 👨‍💻 Author
+
+**Arjun S**
+
+* GitHub: https://github.com/arjunsudheer-tech
+* LinkedIn: https://www.linkedin.com/in/arjunsudheer-tech/
+
+---
 
 ⭐ If you like this project, consider giving it a star.
