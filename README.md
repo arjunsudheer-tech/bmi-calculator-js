@@ -4,17 +4,18 @@ A simple and responsive BMI Calculator built using **HTML5, CSS3 and JavaScript*
 
 ## 📸 Preview
 
-![BMI Calculator Preview](./preview.png)
+![BMI Calculator Preview](./preview-1.png)
+![BMI Calculator Preview](./preview-2.png)
 
 ## 🎥 Demo
 
-![BMI Calculator Demo](./bmi-demo.gif)
+![BMI Calculator Demo](./bmi-demo.mov)
 
 ---
 
 ## 🚀 Live Demo
 
-[https://arjunsudheer-tech.github.io/bmi-calculator/](https://arjunsudheer-tech.github.io/bmi-calculator/)
+https://arjunsudheer-tech.github.io/bmi-calculator-js/
 
 ---
 
@@ -83,11 +84,10 @@ BMI = 24.22
 
 The calculated BMI is categorized as:
 
-BMI Range	Category
-Below 18.5	Underweight
-18.5 – 24.9	Normal
-25 – 29.9	Overweight
-30 and above	Obese
+* Below 18.5	Underweight
+* 18.5 – 24.9	Normal
+* 25 – 29.9	Overweight
+* 30 and above	Obese
 
 ---
 
